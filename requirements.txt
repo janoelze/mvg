@@ -1,0 +1,19 @@
+aubio==0.4.7
+audioread==2.1.6
+imageio==2.4.1
+librosa==0.6.2
+moviepy==0.2.3.5
+msaf==0.1.70
+numpy==1.15.4
+-e git+https://github.com/tyiannak/pyAudioAnalysis.git@cee48de0df203a104a03195b41a78c2adcf9879d#egg=pyAudioAnalysis
+pydub==0.20.0
+Pygments==2.2.0
+python-slugify==1.2.6
+pytube==9.3.3
+scipy==1.1.0
+Wave==0.0.2
+requests
+youtube-dl
+scenedetect
+opencv-python
+ffmpeg-python
